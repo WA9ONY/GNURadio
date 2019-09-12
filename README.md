@@ -1,7 +1,7 @@
-# WA9ONY SDR GNU Radio Repoditory
+# WA9ONY SDR GNU Radio Companion Repository
 
-This repoditory contains GNU Radio programs used in the
-YouTube WA9ONY SDR Playlist of videos.
+This repository contains GNU Radio Companion programs used in the
+YouTube videos: WA9ONY SDR Playlist.
 
 tutorial1.grc
 
