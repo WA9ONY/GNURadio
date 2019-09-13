@@ -3,11 +3,11 @@
 This repository contains GNU Radio Companion programs used in the
 YouTube videos: WA9ONY SDR Playlist.
 
-tutorial1.grc
+tutorial1.grc - RTL-SDR.COM first program
 
 https://youtu.be/aG1j6Fyyc8A
 
-tutorial2.grc
+tutorial2.grc - Adding controls to RTL-SDR.COM program
 
 https://youtu.be/Q1zjX1az5wE
 
